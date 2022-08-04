@@ -22,8 +22,8 @@ header a {
   margin-right: var(--lumo-space-m);
 }
 
-vaadin-app-layout[dir="rtl"] header vaadin-avatar,
-vaadin-app-layout[dir="rtl"] header a {
+vaadin-app-layout[dir='rtl'] header vaadin-avatar,
+vaadin-app-layout[dir='rtl'] header a {
   margin-left: var(--lumo-space-m);
   margin-right: auto;
 }

@@ -102,7 +102,7 @@ class TestComponent extends PolymerElement {
   getObjectWithNullValues(e) {
     appEndpoint
       .getObjectWithNullValues()
-      .then((response) => (this.$.content.textContent = '' + response['propWithNullValue']))
+      .then((response) => (this.$.content.textContent = '' + response.propWithNullValue))
       .catch((error) => (this.$.content.textContent = 'Error:' + error));
   }
 

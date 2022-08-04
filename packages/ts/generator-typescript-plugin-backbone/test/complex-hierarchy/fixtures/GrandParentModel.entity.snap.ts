@@ -1,4 +1,4 @@
 interface ComplexHierarchyGrandParentModel {
-    build: number;
+  build: number;
 }
 export default ComplexHierarchyGrandParentModel;
