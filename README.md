@@ -7,7 +7,7 @@ for Java
 
 ![Latest Stable Version](https://img.shields.io/npm/v/@hilla/frontend.svg)
 [![Releases](https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Frepo1.maven.org%2Fmaven2%2Fdev%2Fhilla%2Fhilla%2Fmaven-metadata.xml)](https://github.com/vaadin/hilla/releases)
-  
+
 [hilla.dev](https://hilla.dev) · [Docs](https://hilla.dev/docs) · [Chat](https://discord.gg/MYFq5RTbBn)
 
 </div>

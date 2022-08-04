@@ -18,7 +18,7 @@ $ npm install @hilla/frontend
 Once installed, import it in your application:
 
 ```js
-import {login} from '@hilla/frontend';
+import { login } from '@hilla/frontend';
 ```
 
 ## Contribution

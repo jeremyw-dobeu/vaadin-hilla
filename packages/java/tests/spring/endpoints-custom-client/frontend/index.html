@@ -1,33 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Vaadin integration tests for client-side mode and services with a custom Connect client</title>
     <style>
-        body {
-            margin: 0;
-            width: 100vw;
-            height: 100vh;
-        }
+      body {
+        margin: 0;
+        width: 100vw;
+        height: 100vh;
+      }
 
-        #outlet {
-            height: 100%;
-        }
+      #outlet {
+        height: 100%;
+      }
 
-        #log {
-            position: absolute;
-            bottom: 0;
-        }
+      #log {
+        position: absolute;
+        bottom: 0;
+      }
     </style>
     <custom-style>
-        <style include="lumo-color lumo-typography"></style>
+      <style include="lumo-color lumo-typography"></style>
     </custom-style>
     <!-- index.ts is included here automatically (either by the dev server or during the build) -->
-</head>
+  </head>
 
-<body theme="light">
+  <body theme="light">
     <div id="outlet"></div>
     <div id="log"></div>
-</body>
+  </body>
 </html>
